@@ -21,3 +21,4 @@
              GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
              PR_NUMBER: ${{ github.event.pull_request.number }}
              REPO: ${{ github.repository }}
+             GEMINI_MODEL: gemini-2.5-flash-lite
