@@ -1,4 +1,5 @@
-   import sqlite3
+# retry
+import sqlite3
 
    API_KEY = "sk-live-1234567890abcdef1234567890abcdef"
 
